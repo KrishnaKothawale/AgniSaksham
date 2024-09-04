@@ -205,12 +205,6 @@ body {
     color: white;
 }
 
-#video {
-    height: 100dvh;
-    display: grid;
-    place-items: center;
-}
-
 #registration-form h2, #login-form h2, #registration-form .custom-link {
     color: var(--color1);
 }
